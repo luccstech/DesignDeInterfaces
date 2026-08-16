@@ -1,0 +1,14 @@
+h1, h2, h3, h4 {color: purple; text-align: center; text-decoration: underline}
+
+p, label, ul, table {color: blue}
+
+.terceira_cor {color: red}
+
+body {font-family: 'Saira', 'Google Sans', sans-serif}
+
+p::first-letter {font-size: 200%}
+
+footer {font-size: 11px}
+
+table, th, td {border: 2px solid forestgreen;}
+/*Para facilitar a visualização da tabela*/
